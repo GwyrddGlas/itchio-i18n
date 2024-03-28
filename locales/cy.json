@@ -1,5 +1,12 @@
 {
+    "itchio": "itch.io",
     "layout": {
+        "footer": {
+            "about": "Am",
+            "faq": "FAQ",
+            "contact_us": "Cyswllt ni",
+            "cookies": "briwsion"
+        },
         "header": {
             "devlogs": "Logiau Datblygwyr"
         }
